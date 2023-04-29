@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="594dp"
+        android:layout_height="935dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/recycler_view_item_selector"
+        android:clickable="true"
+        android:clipToPadding="true"
+        android:textStyle="bold"
+
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:focusable="true" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_delete_all"
+        android:layout_width="58dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="20dp"
+        android:contentDescription="@string/add_button"
+        android:src="@drawable/baseline_delete_sweep_24"
+        app:maxImageSize="35dp" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@drawable/baseline_add_to_photos_24"
+        android:contentDescription="@string/add_button"
+        android:layout_margin="20dp"
+        app:maxImageSize="30dp"
+        />
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799506716801",
+    "firebase_url": "https://productivityplus-8abd5-default-rtdb.firebaseio.com",
+    "project_id": "productivityplus-8abd5",
+    "storage_bucket": "productivityplus-8abd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799506716801:android:c65f74dc4885403634d580",
+        "android_client_info": {
+          "package_name": "lewisu.mattomalley.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799506716801-c8fk0q6jd8qa85babu3cu85bnlv49r4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5A0w72QTjoouTU_2CqTSMaZLi1idu1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799506716801-c8fk0q6jd8qa85babu3cu85bnlv49r4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

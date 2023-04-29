@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#03A9F4</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#182FAF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ratingRed">#EB3434</color>
+    <color name="ratingOrange">#FFBC48</color>
+    <color name="ratingYellow">#F3DF5D</color>
+    <color name="ratingGrey">#959595</color>
+    <color name="my_item_background_pressed">#f0f0f0</color>
+</resources>

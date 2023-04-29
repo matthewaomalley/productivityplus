@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Productivity+</string>
+    <string name="priority">Priority</string>
+    <string name="complete">Complete</string>
+    <string name="add_button">Add Button</string>
+    <string name="menu_delete">Delete</string>
+    <string name="sign_out">SignOut</string>
+    <string name="add">Add Note</string>
+    <string name="spinner">Spinner</string>
+    <string name="category">Category</string>
+    <string name="details">Enter some more details...</string>
+    <string name="title">Enter a Title</string>
+    <string name="rating_bar">Rating Bar</string>
+    <string name="settings" />
+    <string name="goback" />
+    <string name="my_spinner_hint">Category</string>
+    <string name="priority_title">Priority</string>
+
+    <string-array name="product_categories">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Recreation</item>
+        <item>Health</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_text"
+        android:title="Filter By Category"
+        android:enabled="false" />
+
+    <item
+        android:id="@+id/filter_by_work"
+        android:title="Work" />
+
+    <item
+        android:id="@+id/filter_by_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/filter_by_rec"
+        android:title="Recreation" />
+
+    <item
+        android:id="@+id/filter_by_health"
+        android:title="Health" />
+
+    <item
+        android:id="@+id/clear_filters"
+        android:title="Clear All Filters" />
+
+</menu>
